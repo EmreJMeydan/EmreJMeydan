@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Reading Papers
+Learning C++ and Python
+Building some projects
+
+Will clean this up more in the future as the page grows
+
 <!--
 **EmreJMeydan/EmreJMeydan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
